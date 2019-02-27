@@ -1,19 +1,16 @@
 img {
-
-    width: 90px;
-    
+    width: 90px;   
     height: 90px;
-    
     float: left;
-    
     }
-    
-    #idCard {
-    
+
+#idCard {
     border: 5px solid black;
-    
     height: 14em;
-    
     width: 25em;
-    
+    background-color:#efc3c3;
     }
+
+body {
+    background-color:#4e98b1;
+}
