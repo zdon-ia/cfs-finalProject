@@ -6,11 +6,52 @@ img {
 
 #idCard {
     border: 5px solid black;
+    border-radius: 25px;
     height: 14em;
     width: 25em;
     background-color:#efc3c3;
+    margin-left: 350px;
     }
 
 body {
     background-color:#4e98b1;
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+label {
+    font-weight: bolder;
+}
+
+input {
+    margin: 0px 475px;
+}
+
+#bttnGet {
+    margin: 10px auto 10px 510px;
+    border-radius: 5px;
+}
+
+h1 {
+    margin: 0px auto 10px 375px;
+}
+
+#lbFn {
+    margin: 5px auto 5px 515px;
+}
+
+#lbLn {
+    margin: 5px auto 5px 515px;
+}
+
+#lbAg {
+    margin: 5px auto 5px 540px;
+}
+
+#lbPn {
+    margin: 5px auto 5px 500px;
+}
+
+#lbAd {
+    margin: 5px auto 5px 525px;
 }
