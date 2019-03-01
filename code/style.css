@@ -4,6 +4,10 @@ img {
     float: left;
     }
 
+.center{
+    text-align: center;
+}
+
 #idCard {
     border: 5px solid black;
     border-radius: 25px;
