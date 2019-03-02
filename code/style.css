@@ -16,7 +16,8 @@ img {
     background-color:#efc3c3;
     margin-left: auto;
     margin-right: auto;
-    }
+    margin-top: 50px;
+}
 
 body {
     background-color:#4e98b1;
@@ -28,4 +29,25 @@ label {
 
 #bttnGet {
     border-radius: 5px;
+    margin-top: 5px;
+}
+
+#postAge, #postPhoneNumber, #postAddress {
+    margin: 0px;
+    padding: 10px 5px;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#postFullName {
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
+.space {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
