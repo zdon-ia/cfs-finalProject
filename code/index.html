@@ -12,7 +12,7 @@
     <h1 class="center">Let's Create an ID Card!</h1>
 
 <div class="center">
-    <form class="center" onsubmit="return false">
+    <form class="center">
         <label id="lbFn" for="firstName">First Name:</label><br>
         <input id="firstName" type="text" class="space" /><br>
         <label id="lbLn" for="lastName">Last Name:</label><br>
@@ -23,10 +23,10 @@
         <input id="phoneNumber" type="text" class="space" /><br>
         <label id="lbAd" for="address">Address:</label><br>
         <input id="address" type="text" class="space" /><br>
-        <button id="bttnGet" onclick="idCard()">Get ID Card!</button>
     </form>
+    <button id="bttnGet" onclick="idCard()">Get ID Card!</button>
 </div>
-
+<!-- onsubmit="return false" -->
 
 <div id="idCard" class="center">
 
