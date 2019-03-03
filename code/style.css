@@ -13,6 +13,7 @@ img {
     border-radius: 25px;
     height: 14em;
     width: 25em;
+    background-image: url("https://images.all-free-download.com/images/graphiclarge/abstract_bubble_wave_blue_background_556966.jpg");
     background-color:#efc3c3;
     margin-left: auto;
     margin-right: auto;
@@ -50,4 +51,11 @@ label {
 .space {
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+#bcode {
+    height: 40px;
+    width: auto;
+    float: right;
+    margin-right: 10px;
 }
